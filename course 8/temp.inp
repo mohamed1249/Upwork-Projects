@@ -1,0 +1,138 @@
+; Filename: Spring 2022 Capstone.inp
+; WNTR: 0.4.2
+; Created: 2022-10-08 22:17:59
+[TITLE]
+Fall2021 Capstone
+
+[JUNCTIONS]
+;ID                      Elevation       Demand Pattern                 
+ J2                                 0               0                            ;
+ J3                                 0            2160                            ;
+ J4                                 0             720                            ;
+ J5                                 0           -1152                            ;
+ J6                                 0             432                            ;
+ J7                                 0           -2880                            ;
+ J8                                 0            2160                            ;
+
+[RESERVOIRS]
+;ID                                   Head                  Pattern
+ R1                             10.21                            ;
+
+[TANKS]
+;ID                              Elevation           Init Level            Min Level            Max Level             Diameter           Min Volume Volume Curve         Overflow            
+
+[PIPES]
+;ID                   Node1                Node2                              Length             Diameter            Roughness           Minor Loss               Status
+ P1                   R1                   J2                      578.59150221             600   0.41554354231               0                 Open   ;
+ P2                   J2                   J3                      594.73745667             450   0.34174323122               0                 Open   ;
+ P3                   J4                   J3                       598.0466793             600   0.38914627705               0                 Open   ;
+ P4                   R1                   J4                      433.24872679             450   0.41295310889               0                 Open   ;
+ P5                   J2                   J5                      451.46592716             600   0.44376720052               0                 Open   ;
+ P6                   J7                   J5                      370.09698141             600   0.34794117955               0                 Open   ;
+ P7                   J5                   J6                      598.42254072             450   0.42052402466               0                 Open   ;
+ P8                   J7                   J8                      398.36253709             450   0.45009767612               0                 Open   ;
+ P9                   J8                   J6                      502.12179686             300   0.44297320319               0                 Open   ;
+ P10                  J3                   J6                      446.63187583             600   0.29111051781               0                 Open   ;
+ P11                  J7                   J3                       997.0645255             400   0.20724653262               0                 Open   ;
+ P12                  J5                   J4                      901.10597484             400   0.45885326043               0                 Open   ;
+
+[PUMPS]
+;ID                   Node1                Node2                Properties          
+
+[VALVES]
+;ID                   Node1                Node2                            Diameter Type              Setting           Minor Loss
+
+[TAGS]
+;type      name       tag       
+
+[DEMANDS]
+;ID        Demand     Pattern   
+
+[STATUS]
+;ID        Setting   
+
+[PATTERNS]
+;ID        Multipliers
+
+[CURVES]
+;ID         X-Value      Y-Value     
+
+[CONTROLS]
+
+[RULES]
+
+[ENERGY]
+GLOBAL PRICE           0.0000
+
+[EMITTERS]
+;ID        Flow coefficient
+
+[QUALITY]
+
+[SOURCES]
+;Node      Type       Quality    Pattern   
+
+[REACTIONS]
+;Type           Pipe/Tank               Coefficient
+
+ ORDER BULK 1
+ ORDER TANK 1
+ ORDER WALL 1
+ GLOBAL BULK 0.0000    
+ GLOBAL WALL 0.0000    
+
+[MIXING]
+;Tank ID             Model Fraction
+
+[TIMES]
+DURATION             00:00:00
+HYDRAULIC TIMESTEP   01:00:00
+QUALITY TIMESTEP     00:06:00
+PATTERN TIMESTEP     01:00:00
+PATTERN START        00:00:00
+REPORT TIMESTEP      01:00:00
+REPORT START         00:00:00
+START CLOCKTIME      00:00:00 AM
+RULE TIMESTEP        00:06:00
+STATISTIC            NONE      
+
+[REPORT]
+NODES      ALL
+LINKS      ALL
+
+[OPTIONS]
+UNITS                CMH                 
+HEADLOSS             D-W                 
+SPECIFIC GRAVITY     1
+VISCOSITY            1
+TRIALS               50
+ACCURACY             1e-05
+CHECKFREQ            2
+MAXCHECK             10
+UNBALANCED           CONTINUE 10
+DEMAND MULTIPLIER    1
+EMITTER EXPONENT     0.5
+QUALITY              NONE                
+DIFFUSIVITY          1
+TOLERANCE            0.01
+
+[COORDINATES]
+;Node      X-Coord    Y-Coord   
+J2                  1.000000000          1.000000000
+J3                  1.000000000          0.000000000
+J4                  0.000000000          0.000000000
+J5                  2.000000000          1.000000000
+J6                  2.000000000          0.000000000
+J7                  3.000000000          1.000000000
+J8                  3.000000000          0.000000000
+R1                  0.000000000          1.000000000
+
+[VERTICES]
+;Link      X-Coord    Y-Coord   
+
+[LABELS]
+
+[BACKDROP]
+UNITS    NONE
+
+[END]

@@ -1,0 +1,139 @@
+; Filename: temp.inp
+; WNTR: 0.4.1
+; Created: 2022-06-22 23:53:06
+[TITLE]
+PROBLEM_5_WNTR
+
+[JUNCTIONS]
+;ID                      Elevation       Demand Pattern                 
+ J2                                 0             360                            ;
+ J3                                 0            1008                            ;
+ J4                                 0             576                            ;
+ J5                                 0           -1800                            ;
+ J6                                 0             900                            ;
+ J7                                 0            1152                            ;
+ J8                                 0            1044                            ;
+
+[RESERVOIRS]
+;ID                                   Head                  Pattern
+ R1                             20.42                            ;
+
+[TANKS]
+;ID                              Elevation           Init Level            Min Level            Max Level             Diameter           Min Volume Volume Curve         Overflow            
+
+[PIPES]
+;ID                   Node1                Node2                              Length             Diameter            Roughness           Minor Loss               Status
+ P1                   R1                   J2                      736.03694981    458.11781922   0.14480252891               0                 Open   ;
+ P2                   J2                   J3                      563.05254963     372.2829621   0.26478079974               0                 Open   ;
+ P3                   R1                   J3                      840.01940116    494.24540995   0.63985542739               0                 Open   ;
+ P4                   J2                   J4                      562.18431128     292.4884996  0.063808070792               0                 Open   ;
+ P5                   J3                   J4                      593.00927512    324.86436288   0.30174681849               0                 Open   ;
+ P6                   J5                   J4                      378.08010954    241.68416216  0.036586910418               0                 Open   ;
+ P7                   J4                   J6                      547.48581313    390.07873489  0.052486523186               0                 Open   ;
+ P8                   J3                   J6                      648.18192669    473.04566624   0.27628857267               0                 Open   ;
+ P9                   J5                   J6                      485.34319211    352.22933298   0.36639644677               0                 Open   ;
+ P10                  J5                   J7                      333.87379614    613.84307474   0.60674790737               0                 Open   ;
+ P11                  J7                   J6                      505.91349444    384.50332873   0.25542416382               0                 Open   ;
+ P12                  J6                   J8                       330.8429127    326.40854474  0.071503523676               0                 Open   ;
+ P13                  J7                   J8                      175.50071537    324.56971387   0.18365589337               0                 Open   ;
+
+[PUMPS]
+;ID                   Node1                Node2                Properties          
+
+[VALVES]
+;ID                   Node1                Node2                            Diameter Type              Setting           Minor Loss
+
+[TAGS]
+;type      name       tag       
+
+[DEMANDS]
+;ID        Demand     Pattern   
+
+[STATUS]
+;ID        Setting   
+
+[PATTERNS]
+;ID        Multipliers
+
+[CURVES]
+;ID         X-Value      Y-Value     
+
+[CONTROLS]
+
+[RULES]
+
+[ENERGY]
+GLOBAL PRICE           0.0000
+
+[EMITTERS]
+;ID        Flow coefficient
+
+[QUALITY]
+
+[SOURCES]
+;Node      Type       Quality    Pattern   
+
+[REACTIONS]
+;Type           Pipe/Tank               Coefficient
+
+ ORDER BULK 1
+ ORDER TANK 1
+ ORDER WALL 1
+ GLOBAL BULK 0.0000    
+ GLOBAL WALL 0.0000    
+
+[MIXING]
+;Tank ID             Model Fraction
+
+[TIMES]
+DURATION             00:00:00
+HYDRAULIC TIMESTEP   01:00:00
+QUALITY TIMESTEP     00:06:00
+PATTERN TIMESTEP     01:00:00
+PATTERN START        00:00:00
+REPORT TIMESTEP      01:00:00
+REPORT START         00:00:00
+START CLOCKTIME      00:00:00 AM
+RULE TIMESTEP        00:06:00
+STATISTIC            NONE      
+
+[REPORT]
+NODES      ALL
+LINKS      ALL
+
+[OPTIONS]
+UNITS                CMH                 
+HEADLOSS             D-W                 
+SPECIFIC GRAVITY     0.99565
+VISCOSITY            7.9462151394e-13
+TRIALS               40
+ACCURACY             1e-05
+CHECKFREQ            2
+MAXCHECK             10
+UNBALANCED           CONTINUE 10
+DEMAND MULTIPLIER    1
+EMITTER EXPONENT     0.5
+QUALITY              NONE                
+DIFFUSIVITY          1
+TOLERANCE            0.01
+
+[COORDINATES]
+;Node      X-Coord    Y-Coord   
+J2                  1.000000000          1.000000000
+J3                  1.000000000          0.000000000
+J4                  2.000000000          1.000000000
+J5                  3.000000000          1.000000000
+J6                  3.000000000          0.000000000
+J7                  4.000000000          1.000000000
+J8                  4.000000000          0.000000000
+R1                  0.000000000          0.500000000
+
+[VERTICES]
+;Link      X-Coord    Y-Coord   
+
+[LABELS]
+
+[BACKDROP]
+UNITS    NONE
+
+[END]

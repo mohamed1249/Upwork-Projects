@@ -1,0 +1,47 @@
+[TITLE]
+Pipe_Network_Example_Two_Loops
+
+[RESERVOIRS]
+;ID     Head        Pattern
+RD      50.97
+
+
+[JUNCTIONS]
+;ID     Elev        Demand      Patern
+JA      0           -36000
+JB      0           10800
+JC      0           10800
+
+[PIPES]
+;ID     Node1   Node2   Length  Diam.   Roughness
+P1      JA      JB      100     500     0.2
+P2      JA      JC      75      400     0.2
+P3      JA      RD      125     600     0.3
+P4      JC      RD      100     300     0.15
+P5      JB      RD      75      300     0.15
+
+
+[OPTIONS]
+UNITS CMH
+HEADLOSS D-W
+VISCOSITY 1
+SPECIFIC GRAVITY 1
+TRIALS 40
+ACCURACY 0.00001
+UNBALANCED CONTINUE 10
+
+[TIMES]
+DURATION 0
+
+[REPORT]
+NODES ALL
+LINKS ALL
+
+[COORDINATES]
+JA 0 1
+JB 1 1
+JC 0 0
+RD 1 0 
+
+
+

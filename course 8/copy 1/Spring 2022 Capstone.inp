@@ -1,0 +1,60 @@
+[TITLE]
+Fall2021 Capstone
+
+[RESERVOIRS]
+;ID     Head        Pattern
+R1      10.21
+
+[JUNCTIONS]
+;ID     Elev        Demand      Pattern   
+J2      0           0         
+J3      0           2160        
+J4      0           720         
+J5      0           -1152      
+J6      0           432         
+J7      0           -2880
+J8      0           2160
+
+ 
+[PIPES]
+;ID     Node1   Node2   Length  Diam.   Roughness
+P1      R1      J2      580     600     0.400
+P2      J2      J3      600     450     0.400
+P3      J4      J3      600     600     0.400
+P4      R1      J4      430     450     0.400
+P5      J2      J5      450     600     0.400
+P6      J7      J5      370     600     0.400
+P7      J5      J6      600     450     0.400
+P8      J7      J8      400     450     0.400
+P9      J8      J6      500     300     0.400
+P10     J3      J6      450     600     0.300
+P11     J7      J3      1000    400     0.280
+P12     J5      J4      900     400     0.400
+
+
+[OPTIONS]
+UNITS CMH
+HEADLOSS D-W
+VISCOSITY 1
+SPECIFIC GRAVITY 1
+TRIALS 50
+ACCURACY 0.00001
+UNBALANCED CONTINUE 10
+
+[TIMES]
+DURATION 0
+
+[REPORT]
+NODES ALL
+LINKS ALL
+
+[COORDINATES]
+R1  0   1
+J2  1   1
+J3  1   0
+J4  0   0
+J5  2   1
+J6  2   0
+J7  3   1
+J8  3   0
+

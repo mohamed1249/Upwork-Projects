@@ -1,0 +1,73 @@
+  Page 1                                    Sun Oct 09 00:35:12 2022
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.2                            *
+  ******************************************************************
+  
+  Fall2021 Capstone
+   
+      Input Data File ................... temp.inp
+      Number of Junctions................ 7
+      Number of Reservoirs............... 1
+      Number of Tanks ................... 0
+      Number of Pipes ................... 12
+      Number of Pumps ................... 0
+      Number of Valves .................. 0
+      Headloss Formula .................. Darcy-Weisbach
+      Nodal Demand Model ................ DDA
+      Hydraulic Timestep ................ 1.00 hrs
+      Hydraulic Accuracy ................ 0.000010
+      Status Check Frequency ............ 2
+      Maximum Trials Checked ............ 10
+      Damping Limit Threshold ........... 0.000000
+      Maximum Trials .................... 50
+      Quality Analysis .................. None
+      Specific Gravity .................. 1.00
+      Relative Kinematic Viscosity ...... 1.00
+      Relative Chemical Diffusivity ..... 1.00
+      Demand Multiplier ................. 1.00
+      Total Duration .................... 0.00 hrs
+      Reporting Criteria:
+         All Nodes
+         All Links
+   
+  Analysis begun Sun Oct 09 00:35:12 2022
+
+   
+  Node Results:
+  ----------------------------------------------
+                     Demand      Head  Pressure
+  Node                 m3/h         m         m
+  ----------------------------------------------
+  J2                   0.00     10.04     10.04
+  J3                2160.00      7.04      7.04
+  J4                 720.00      7.52      7.52
+  J5               -1152.00     10.15     10.15
+  J6                 432.00      7.05      7.05
+  J7               -2880.00     10.36     10.36
+  J8                2160.00      2.18      2.18
+  R1               -1440.00     10.21      0.00  Reservoir
+   
+   
+  Link Results:
+  ----------------------------------------------
+                       Flow  Velocity  Headloss
+  Link                 m3/h       m/s    /1000m
+  ----------------------------------------------
+  P1                 448.94      0.43      0.29
+  P2                 855.82      1.50      5.03
+  P3                 731.41      0.70      0.79
+  P4                 991.06      1.68      6.20
+  P5                -406.88      0.39      0.25
+  P6                 595.27      0.59      0.57
+  P7                 880.04      1.52      5.15
+  P8                1747.01      3.04     20.32
+  P9                -412.99      1.62      9.64
+  P10                -35.05      0.04      0.00
+  P11                537.71      1.17      3.28
+  P12                460.35      1.05      2.90
+   
+  Analysis ended Sun Oct 09 00:35:12 2022
