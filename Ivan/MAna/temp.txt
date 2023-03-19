@@ -1,0 +1,8 @@
+
+Data visualization functions: These functions are used to visualize data in a variety of ways to help users understand and interpret patterns in the data. Common data visualization functions include functions to create scatter plots, line plots, and bar charts.
+
+Statistical analysis functions: These functions are used to perform statistical tests and analyses on data to help users draw conclusions and make decisions. Common statistical analysis functions include functions to perform hypothesis tests, calculate p-values, and perform regression analyses.
+
+Machine learning functions: These functions are used to train and evaluate machine learning models on data. Common machine learning functions include functions to split data into training and testing sets, fit models to data, and evaluate model performance.
+
+Data transformation functions: These functions are used to transform data into different formats for downstream analysis or use. Common data transformation functions include functions to save data to disk in different formats, load data from different formats, and convert data to different formats (e.g., from wide to long format).
