@@ -1,0 +1,10 @@
+﻿,CoalOld,CoalNew,Gas,Peaker
+FuelCost ($/MWh),30,25,45,60
+OperatingCost ($/h),20,30,50,10
+StartupCost ($/switch),800,650,200,80
+MinGenerationLevel (MW),120,90,40,3
+MaxGenerationLevel (MW),800,250,200,120
+RampUpLimit (MW/h),30,40,80,900
+RampDownLimit (MW/h),50,50,100,1800
+MinimumUpTime (h),4,3,5,1
+MinimumDownTime (h),3,1,4,1
