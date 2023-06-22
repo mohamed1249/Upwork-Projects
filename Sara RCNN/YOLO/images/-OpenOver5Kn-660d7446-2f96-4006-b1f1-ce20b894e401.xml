@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images - Copy</folder>
+	<filename>-OpenOver5Kn-660d7446-2f96-4006-b1f1-ce20b894e401.jpg</filename>
+	<path>C:\python\projects\Upwork-Projects\Sara RCNN\YOLO\data\validation\images - Copy\-OpenOver5Kn-660d7446-2f96-4006-b1f1-ce20b894e401.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>open</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>396</ymin>
+			<xmax>381</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>

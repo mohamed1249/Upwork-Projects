@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images - Copy</folder>
+	<filename>-HalfCabUnder5Kn-e64ebaa7-e221-4600-a999-a9c20c1ba064.jpg</filename>
+	<path>C:\python\projects\Upwork-Projects\Sara RCNN\YOLO\data\validation\images - Copy\-HalfCabUnder5Kn-e64ebaa7-e221-4600-a999-a9c20c1ba064.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PWC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>584</xmin>
+			<ymin>380</ymin>
+			<xmax>718</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>registration_numver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>618</xmin>
+			<ymin>455</ymin>
+			<xmax>636</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>halfcab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>90</ymin>
+			<xmax>358</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

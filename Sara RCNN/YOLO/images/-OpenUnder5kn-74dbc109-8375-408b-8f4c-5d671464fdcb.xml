@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images - Copy</folder>
+	<filename>-OpenUnder5kn-74dbc109-8375-408b-8f4c-5d671464fdcb.jpg</filename>
+	<path>C:\python\projects\Upwork-Projects\Sara RCNN\YOLO\data\validation\images - Copy\-OpenUnder5kn-74dbc109-8375-408b-8f4c-5d671464fdcb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>open</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>188</ymin>
+			<xmax>595</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>registration_number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>248</ymin>
+			<xmax>539</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>180</ymin>
+			<xmax>335</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

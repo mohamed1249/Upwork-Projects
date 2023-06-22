@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images - Copy</folder>
+	<filename>-CabinCruiserUnder5Kn-ea48e6db-65e3-457f-97d5-71c909ff7470.jpg</filename>
+	<path>C:\python\projects\Upwork-Projects\Sara RCNN\YOLO\data\validation\images - Copy\-CabinCruiserUnder5Kn-ea48e6db-65e3-457f-97d5-71c909ff7470.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cabincruiser</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>363</xmin>
+			<ymin>161</ymin>
+			<xmax>700</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>registration_numver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>602</xmin>
+			<ymin>248</ymin>
+			<xmax>631</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

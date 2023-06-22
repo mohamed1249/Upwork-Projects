@@ -1,5 +1,5 @@
-from analysis import *
-from data import *
-from modeling import *
+from .analysis import *
+from .data import *
+from .modeling import *
 
 

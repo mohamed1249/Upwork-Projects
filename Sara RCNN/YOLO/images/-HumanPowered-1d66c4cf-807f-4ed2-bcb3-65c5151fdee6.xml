@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images - Copy</folder>
+	<filename>-HumanPowered-1d66c4cf-807f-4ed2-bcb3-65c5151fdee6.jpg</filename>
+	<path>C:\python\projects\Upwork-Projects\Sara RCNN\YOLO\data\validation\images - Copy\-HumanPowered-1d66c4cf-807f-4ed2-bcb3-65c5151fdee6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>444</ymin>
+			<xmax>800</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>534</xmin>
+			<ymin>377</ymin>
+			<xmax>625</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

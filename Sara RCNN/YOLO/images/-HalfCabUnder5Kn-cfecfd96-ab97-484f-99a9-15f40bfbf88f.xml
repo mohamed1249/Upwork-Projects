@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images - Copy</folder>
+	<filename>-HalfCabUnder5Kn-cfecfd96-ab97-484f-99a9-15f40bfbf88f.jpg</filename>
+	<path>C:\python\projects\Upwork-Projects\Sara RCNN\YOLO\data\validation\images - Copy\-HalfCabUnder5Kn-cfecfd96-ab97-484f-99a9-15f40bfbf88f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>halfcab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>152</ymin>
+			<xmax>633</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>registration_numver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymin>219</ymin>
+			<xmax>404</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

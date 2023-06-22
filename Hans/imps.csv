@@ -1,0 +1,4 @@
+"cmd domain test	""curl -X POST -H """"Content-Type: application/json"""" -H """"API-KEY: amphia-22768"""" -d """"{\""""message\"""": \""""Hello"," API!\""""}"""" https://api.sayhaito.com/amphia"""
+du -sh storage,
+tmux new-session -s APIs,
+gunicorn -b :8080 --timeout 600 API_test:app,

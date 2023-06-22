@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images - Copy</folder>
+	<filename>-CabinCruiserUnder5Kn-b1ffbe02-624b-4647-b2d5-2912ceadef24.jpg</filename>
+	<path>C:\python\projects\Upwork-Projects\Sara RCNN\YOLO\data\validation\images - Copy\-CabinCruiserUnder5Kn-b1ffbe02-624b-4647-b2d5-2912ceadef24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cabincruiser</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>73</ymin>
+			<xmax>759</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cabin</folder>
+	<filename>CabinCruiserUnder5Kn - 20230414_112702M.jpg</filename>
+	<path>C:\python\projects\Upwork-Projects\Sara RCNN\YOLO\images\Cabin\CabinCruiserUnder5Kn - 20230414_112702M.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cabincruiser</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1474</xmin>
+			<ymin>743</ymin>
+			<xmax>2311</xmax>
+			<ymax>1058</ymax>
+		</bndbox>
+	</object>
+</annotation>

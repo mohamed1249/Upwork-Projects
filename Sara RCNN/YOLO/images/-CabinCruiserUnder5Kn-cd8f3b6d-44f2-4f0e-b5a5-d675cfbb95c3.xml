@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images - Copy</folder>
+	<filename>-CabinCruiserUnder5Kn-cd8f3b6d-44f2-4f0e-b5a5-d675cfbb95c3.jpg</filename>
+	<path>C:\python\projects\Upwork-Projects\Sara RCNN\YOLO\data\validation\images - Copy\-CabinCruiserUnder5Kn-cd8f3b6d-44f2-4f0e-b5a5-d675cfbb95c3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>halfcab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>55</ymin>
+			<xmax>393</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

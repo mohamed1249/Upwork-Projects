@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
   name='M_Ana_package',
-  version='0.0.4',
+  version='0.0.5',
   description='A Python Package for Data Manipulation and Analysis',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  

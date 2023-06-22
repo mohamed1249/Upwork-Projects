@@ -1,4 +1,4 @@
-def confusion_matrix(y_true, y_pred):
+def confusion_matrix(y_true, y_pred, size=20, cmap='Greens'):
     """
     Plots a confusion matrix using seaborn.
 
@@ -15,9 +15,9 @@ def confusion_matrix(y_true, y_pred):
     import seaborn as sns
     from sklearn.metrics import confusion_matrix
 
-
+    plt.figure(figsize = (20,20))
     cm = confusion_matrix(y_true, y_pred)
-    ax = sns.heatmap(cm, annot=True, fmt='g', cbar=False, cmap='Greens')
+    ax = sns.heatmap(cm, annot=True, fmt='g', cbar=False, cmap=cmap)
     ax.set_xlabel('Predicted Values')
     ax.set_ylabel('Actual Values')
     plt.show()

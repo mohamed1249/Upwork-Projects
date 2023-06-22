@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images - Copy</folder>
+	<filename>-OpenUnder5kn-19f7c618-be33-4309-9617-d3808684b8dd.jpg</filename>
+	<path>C:\python\projects\Upwork-Projects\Sara RCNN\YOLO\data\validation\images - Copy\-OpenUnder5kn-19f7c618-be33-4309-9617-d3808684b8dd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

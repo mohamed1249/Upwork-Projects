@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>-CabinCruiserOver5Kn-53352432-170c-40ed-bdd7-9d7415656eb8.jpg</filename>
+	<path>C:\python\projects\Upwork-Projects\Sara RCNN\YOLO\data\validation\images\-CabinCruiserOver5Kn-53352432-170c-40ed-bdd7-9d7415656eb8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>halfcab</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>495</xmin>
+			<ymin>49</ymin>
+			<xmax>800</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>684</xmin>
+			<ymin>78</ymin>
+			<xmax>715</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

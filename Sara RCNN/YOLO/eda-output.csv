@@ -1,0 +1,15 @@
+,current annotations,current images,additional images required,total images for use with Augmentor ( = N),to give total annotations
+Cabin Cruiser,1995,1829,5,1834,2000
+Canoe/Kayak,2054,1999,-53,1946,2000
+Commercial,35,33,1853,1886,2000
+Half Cab,2017,1690,-14,1676,2000
+House Boat,14,4,567,571,2000
+Human,12223,6925,-5792,1133,2000
+Open,2040,1910,-37,1873,2000
+Other,33,32,1907,1939,2000
+PFD (life jacket),5596,3942,-2533,1409,2000
+PWC,1992,1664,7,1671,2000
+Registration Number,4386,3602,-1960,1642,2000
+Rowing,2,2,1998,2000,2000
+Structure,3290,1256,-492,764,2000
+Yacht,15,9,1191,1200,2000

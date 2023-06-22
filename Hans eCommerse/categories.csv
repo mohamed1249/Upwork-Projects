@@ -1,0 +1,593 @@
+"value_id","attribute_id","store_id","value","row_id"
+1,45,0,"Root Catalog",1
+2,45,0,"Webshop",2
+4,45,0,"Collecting waste",3
+8,45,0,"Laundry & ironing",4
+12,45,0,"Kitchen & cooking",5
+16,45,0,"Bathroom & toilet",6
+45,45,0,"Waste bins & paper bins",7
+50,45,0,"Bin liners",8
+55,45,0,"Accessories",9
+60,45,0,"Laundry",10
+65,45,0,"Ironing",11
+70,45,0,"Clothing storage",12
+75,45,0,"Sink side",13
+80,45,0,"Kitchen utensils",14
+85,45,0,"Measuring & timing tools",15
+90,45,0,"Kitchen roll holder",16
+95,45,0,"Food storage",17
+100,45,0,"Bread bin",18
+105,45,0,"Food warmer",19
+110,45,0,"Weighing",20
+115,45,0,"Toilet roll holder",21
+120,45,0,"Toilet roll dispenser",22
+125,45,0,"Toilet brush",23
+130,45,0,"Soap dispenser & dish",24
+135,45,0,"Outlet",25
+139,45,0,"Outlet - Waste bins & paper bins",26
+404,45,0,"Laundry bins & bags",39
+410,45,0,"Drying rack",40
+416,45,0,"Rotary washing lines",41
+422,45,0,"Wall mounted dryer",42
+428,45,0,"Washing line",43
+434,45,0,"Laundry accessories",44
+461,45,0,"Ironing board",45
+467,45,0,"Ironing board cover",46
+473,45,0,"Sleeve board",47
+479,45,0,"Ironing accessories",48
+520,45,0,"Clothes rack",49
+526,45,0,"Clothes hangers",50
+532,45,0,"Clothes covers",51
+551,45,0,"Dish drying rack large",52
+557,45,0,"Dish drying rack small",53
+567,45,0,"Microfibre dish drying mat ",55
+573,45,0,"Silicone dish drying mat",56
+579,45,0,"Food waste caddy",57
+585,45,0,"Sink organizer",58
+591,45,0,"Dish brush",59
+597,45,0,"Microfibre cleaning pads",60
+603,45,0,"Microfibre dishcloths",61
+611,45,0,"Kitchen timer",62
+617,45,0,"Kitchen scale",63
+623,45,0,"Measuring jug / juicer",64
+644,45,0,"Pedal bin",67
+685,45,0,"Touch bin",74
+705,45,0,"Push bin",77
+717,45,0,"Big Bin",78
+728,45,0,"Sort & Go",79
+739,45,0,"Built-in bin",80
+750,45,0,"Paper bin",81
+761,45,0,"Flip top bin",82
+783,45,0,"Wall mounted bin",84
+794,45,0,"Slide Bin",85
+805,45,0,"Fire retardant bin",86
+816,45,0,"Table top bin",87
+838,45,0,"Bo Pedal Bin",89
+850,45,0,"Bo Pedal Bin, 36 litre",90
+861,45,0,"Bo Pedal Bin, 11 + 23 litre",91
+872,45,0,"Bo Pedal Bin, 3 x 11 litre",92
+885,45,0,"Pedal Bin, 40 litre",93
+897,45,0,"Pedal Bin, 30 litre",94
+908,45,0,"Pedal Bin, 20 litre",95
+919,45,0,"Pedal Bin, 12 litre",96
+930,45,0,"Pedal Bin, 5 litre",97
+941,45,0,"Pedal Bin, 3 litre",98
+952,45,0,"Bo Touch Bin",99
+963,45,0,"Bo Touch Bin, 60 litre",100
+974,45,0,"Bo Touch Bin, 2 x 30 litre",101
+985,45,0,"Bo Touch Bin, 36 litre",102
+996,45,0,"Bo Touch Bin, 11 + 23 litre",103
+1007,45,0,"Bo Touch Bin, 3 x 11 litre",104
+1018,45,0,"Touch Bin, 60 litre",105
+1029,45,0,"Touch Bin, 45 litre",106
+1040,45,0,"Touch Bin, 40 litre",107
+1051,45,0,"Touch Bin, 10 + 23 litre",108
+1062,45,0,"Touch Bin, 30 litre",109
+1073,45,0,"Touch Bin, 25 litre",110
+1084,45,0,"Touch Bin, 10 litre",111
+1095,45,0,"Touch Bin, 3 litre",112
+1106,45,0,"Laundry bin, 35 litre",113
+1112,45,0,"Laundry bin, Selector, 55 litre",114
+1118,45,0,"Laundry bin, 60 litre",115
+1124,45,0,"Stackable Laundry Box, 35 litre",116
+1130,45,0,"Sort & Go, 2 x 16 litre",117
+1141,45,0,"Sort & Go, 2 x 12 litre",118
+1152,45,0,"Sort & Go, 16 litre",119
+1163,45,0,"Sort & Go, 12 litre",120
+1174,45,0,"Sort & Go, 6 litre",121
+1185,45,0,"Portable Laundry Bag, Oval",122
+1191,45,0,"Sort & Go, 3 litre",123
+1202,45,0,"Laundry & ironing",124
+1207,45,0,"Portable Laundry Bag, Rectangular",125
+1213,45,0,"New",126
+1226,45,0,"Laundry bin replacement bag",127
+1232,45,0,"Waste bins & paper bins",128
+1248,45,0,"Linn laundry collection",129
+1253,45,0,"Bo Family",130
+1331,45,0,"Code A, 3-4 litre",133
+1342,45,0,"Code B, 5-7 litre",134
+1353,45,0,"Code C, 10-12 litre",135
+1364,45,0,"Code D, 15-20 litre",136
+1375,45,0,"Code E, 20 litre",137
+1386,45,0,"Code F, 20 litre",138
+1397,45,0,"Code G, 23-30 litre",139
+1403,45,0,"Code H, 50-60 litre",140
+1414,45,0,"Code J, 23 litre",141
+1425,45,0,"Code K, 10 litre",142
+1436,45,0,"Code L, 45 litre",143
+1447,45,0,"Code M, 60 litre",144
+1458,45,0,"Code O, 30 litre",145
+1469,45,0,"Code Q, 18 litre",146
+1480,45,0,"Code R, 36 litre",147
+1491,45,0,"Code S, 6 litre",148
+1502,45,0,"Code V, 3 litre",149
+1513,45,0,"Code W, 5 litre",150
+1524,45,0,"Code X, 12 litre",151
+1535,45,0,"Code Y, 20 litre",152
+1546,45,0,"TASTY+ kitchen utensils",153
+1557,45,0,"100 years collection",154
+1563,45,0,"Linn",155
+1569,45,0,"Hanging drying rack",156
+1575,45,0,"Drying rack T-model",157
+1581,45,0,"Drying rack tower",158
+1587,45,0,"Rotary cover",159
+1593,45,0,"Rotary soil spears",160
+1599,45,0,"Storage wallfix",161
+1605,45,0,"Replacement line",162
+1611,45,0,"Smart pegs",163
+1617,45,0,"Clothes brush",164
+1623,45,0,"Washing bag",165
+1633,45,0,"Ironing Board A, 110x30 cm, Steam Iron Rest",167
+1639,45,0,"Ironing Board A, 110x30 cm, Solid Steam Iron Rest",168
+1645,45,0,"Ironing Board B, 124x38 cm, Steam Iron Rest",169
+1651,45,0,"Ironing Board B, 124x38 cm, Solid Steam Iron Rest",170
+1657,45,0,"Ironing Board B, 124x38 cm, Solid Steam Unit Holder",171
+1663,45,0,"Ironing Board C, 124x45 cm, Solid Steam Iron Rest",172
+1674,45,0,"Ironing Board C, 124x45 cm, Solid Steam Unit Holder",173
+1680,45,0,"Ironing Board C, 124x45 cm, Foldable Steam Unit Holder",174
+1686,45,0,"Ironing Board C, 124x45 cm,  Steam Iron Rest with Linen Rack",175
+1692,45,0,"Ironing Board D, 135x45 cm, Silicone Heat Pad",176
+1707,45,0,"Stackable jars",178
+1713,45,0,"Round canister",179
+1719,45,0,"Square canister",180
+1725,45,0,"Canister",181
+1731,45,0,"Window canister",182
+1742,45,0,"Window canister set, 1.4 litre",184
+1748,45,0,"Window canister, 1.4 litre",185
+1754,45,0,"Window lid canister",186
+1760,45,0,"Round canister",187
+1766,45,0,"Storage jar with measuring cup",188
+1772,45,0,"Glass storage jar with measuring cup",189
+1778,45,0,"Storage jar with measuring cup, plastic",190
+1784,45,0,"Coffee capsules",191
+1790,45,0,"Coffee pods",192
+1796,45,0,"Roll top bread bin",193
+1802,45,0,"Roll top bread bin medium",194
+1808,45,0,"Roll top bread bin",195
+1814,45,0,"Fall front bread bin",196
+1820,45,0,"Profile",197
+1826,45,0,"Classic",198
+1832,45,0,"Classic",199
+1838,45,0,"Profile",200
+1849,45,0,"Replacement toilet brush",201
+1855,45,0,"Outlet - Laundry & ironing",202
+1860,45,0,"Outlet - Kitchen & cooking",203
+1865,45,0,"Outlet - Bathroom & toilet",204
+2427,45,0,"Ironing Board D, 135x45 cm, Heat Resistant Parking Zone",205
+2439,45,0,"Ironing Board D, 135x45 cm, with Linen Rack",206
+2461,45,0,"Ironing blanket",208
+2472,45,0,"Ironing Board Cover A, 110x30 cm, 2mm foam",209
+2483,45,0,"Ironing Board Cover B, 124x38 cm, 2mm Foam",210
+2494,45,0,"Ironing Board Cover B, 124x38 cm, 8mm Foam",211
+2505,45,0,"Ironing Board Cover C, 124x45 cm, 2mm Foam",212
+2516,45,0,"Ironing Board Cover A, 110x30 cm, 8mm foam",213
+2528,45,0,"Ironing Board Cover C, 124x45 cm, 8mm Foam",214
+2539,45,0,"Ironing Board Cover D, 135x45 cm, 2mm Foam",215
+2550,45,0,"Ironing Board Cover D, 135x45 cm, 8mm Foam",216
+2561,45,0,"Ironing Board Cover E",217
+2572,45,0,"Ironing Board Cover S, 95x30 cm, 2mm foam ",218
+2583,45,0,"Sleeve Board Cover, 60x10 cm, 2mm Foam ",219
+2661,45,0,"Protecting ironing cloth",220
+2672,45,0,"Iron store",221
+2683,45,0,"Iron pad",222
+2694,45,0,"Heat resistant iron cover",223
+2705,45,0,"Flex guide",224
+2716,45,0,"Descaling set",225
+2727,45,0,"Folding board ",226
+2738,45,0,"Ironing cover fasteners",227
+7920,45,0,"Dish drying rack & mat",229
+7949,45,0,"Dish drying mat",230
+11019,45,0,"Linn large",231
+11037,45,0,"Linn small",232
+11213,45,0,"The Ocean Cleanup",248
+11805,45,0,"Cradle to Cradle",256
+11919,45,0,"Parts",257
+11930,45,0,"Parts waste bins & paper bins",258
+11934,45,0,"Pedal Bin",259
+11938,45,0,"Bo Pedal Bin",260
+11942,45,0,"Bo Pedal Bin, 36 litre",261
+11946,45,0,"Bo Pedal Bin, 11 + 23 litre",262
+11950,45,0,"Bo Pedal Bin, 3 x 11 litre",263
+11964,45,0,"Pedal Bin Silent",265
+11968,45,0,"Pedal Bin Classic",266
+11978,45,0,"Pedal Bin Retro",267
+11982,45,0,"Pedal Bin Flatback+",268
+11988,45,0,"Touch Bin",269
+11992,45,0,"Bo Touch Bin",270
+11996,45,0,"Bo Touch Bin 60 litre",271
+12000,45,0,"Bo Touch Bin, 2 x 30 litre",272
+12004,45,0,"Bo Touch Bin, 36 litre",273
+12008,45,0,"Bo Touch Bin, 11 + 23 litre",274
+12012,45,0,"Bo Touch Bin, 3 x 11 litre",275
+12016,45,0,"Push Bin",276
+12020,45,0,"Big Bin",277
+12024,45,0,"Sort & Go",278
+12028,45,0,"Built-in Bin",279
+12032,45,0,"Paper Bin",280
+12036,45,0,"FlipBin",281
+12040,45,0,"Wall Mounted Bin",282
+12050,45,0,"Slide Bin",283
+12054,45,0,"Wall Mounted Bin",284
+12058,45,0,"Wall Mounted Bin newIcon",285
+12062,45,0,"Slide Bin, 45 litre",286
+12066,45,0,"Slide Bin, 5 litre",287
+12070,45,0,"Flame Guard Bin",288
+12074,45,0,"Table Bin",289
+12082,45,0,"Open Top Bin",291
+12086,45,0,"Sensor Bin",292
+12090,45,0,"Touch Bin, 60 litre",293
+12094,45,0,"Touch Bin, 50 litre",294
+12104,45,0,"Touch Bin New, 40 litre",295
+12108,45,0,"Touch Bin, 40 litre",296
+12112,45,0,"Touch Bin New Recycle, 23 + 10 litre",297
+12116,45,0,"Twin Bin, 23 + 10 litre",298
+12120,45,0,"Twin Bin, 20 + 20 litre",299
+12145,45,0,"Touch Bin New, 30 litre",300
+12149,45,0,"Touch Bin, 30 litre",301
+12153,45,0,"Touch Bin, 25 litre",302
+12157,45,0,"Touch Bin, 20 litre",303
+12161,45,0,"Touch Bin, 10 litre",304
+12165,45,0,"Touch Bin, 3 litre",305
+12169,45,0,"Pedal Bin newIcon, 30 litre",306
+12173,45,0,"Pedal Bin newIcon, 20 litre",307
+12177,45,0,"Pedal Bin newIcon, 12 litre",308
+12181,45,0,"Pedal Bin newIcon, 5 litre",309
+12185,45,0,"Pedal Bin newIcon, 3 litre",310
+12189,45,0,"Pedal Bin Flatback+, 30 litre",311
+12214,45,0,"Pedal Bin Flatback+, 40 litre",312
+12219,45,0,"Pedal Bin Retro, 30 litre",313
+12223,45,0,"Pedal Bin Retro, 20 litre",314
+12227,45,0,"Pedal Bin Retro, 12 litre",315
+12231,45,0,"Pedal Bin Retro, 5 litre",316
+12235,45,0,"Pedal Bin Retro, 3 litre",317
+12239,45,0,"Pedal Bin, 45 litre",318
+12243,45,0,"Twin Pedal Bin, 20 + 20 litre",319
+12247,45,0,"Pedal Bin, 30 litre",320
+12251,45,0,"Pedal Bin 'Slimline', 20 litre",321
+12255,45,0,"Pedal Bin, 20 litre",322
+12259,45,0,"Pedal Bin, 12 litre",323
+12263,45,0,"Pedal Bin, 45 litre",324
+12267,45,0,"Twin Pedal Bin, 20 + 20 litre",325
+12271,45,0,"Pedal Bin, 30 litre",326
+12275,45,0,"Pedal Bin, 25 litre",327
+12279,45,0,"Pedal Bin 'Slimline', 20 litre",328
+12283,45,0,"Pedal Bin, 20 litre",329
+12287,45,0,"Pedal Bin, 12 litre",330
+12291,45,0,"Pedal Bin, 10 litre",331
+12295,45,0,"Pedal Bin, 5 litre",332
+12299,45,0,"Pedal Bin, 3 litre",333
+12303,45,0,"Parts laundry & ironing",334
+12307,45,0,"Laundry",335
+12317,45,0,"Laundry bins & bags",336
+12321,45,0,"Laundry bin, 35 litre",337
+12325,45,0,"Laundry bin, Selector, 55 litre",338
+12329,45,0,"Laundry bin, 60 litre",339
+12333,45,0,"Portable laundry bags, Oval",340
+12337,45,0,"Laundry bin replacement bag",341
+12345,45,0,"Rotary dryer",343
+12355,45,0,"Compact",344
+12359,45,0,"Topspinner",345
+12363,45,0,"Lift-o-matic",346
+12367,45,0,"Lift-o-matic Advance",347
+12371,45,0,"SmartLift",348
+12375,45,0,"Wall mounted dryer",349
+12379,45,0,"Washing line",350
+12383,45,0,"Peg bag",351
+12387,45,0,"Ironing",352
+12391,45,0,"Ironing board A, 110 x 30 cm",353
+12395,45,0,"Ironing board",354
+12400,45,0,"Ironing board B, 124 x 38 cm",355
+12404,45,0,"Ironing board C, 124 x 45 cm",356
+12408,45,0,"Ironing board D, 135 x 45 cm",357
+12416,45,0,"Sleeve board",359
+12420,45,0,"Iron store",360
+12424,45,0,"Parts kitchen & cooking",361
+12434,45,0,"Kitchen utensils",362
+12438,45,0,"Mixing bowl",363
+12442,45,0,"Graters",364
+12446,45,0,"Meat shears",365
+12450,45,0,"Silicone caps",366
+12454,45,0,"Garlic press",367
+12466,45,0,"Kitchen scales",370
+12470,45,0,"Kitchen roll holder",371
+12474,45,0,"Kitchen foil dispenser",372
+12478,45,0,"Organizers",373
+12482,45,0,"Cookbook / scales holder",374
+12493,45,0,"Measuring & timing tools",375
+12497,45,0,"Kitchen timer",376
+12505,45,0,"French fry cutter",377
+12510,45,0,"Oil / vinegar bottle",378
+12515,45,0,"Food warmer",379
+12520,45,0,"Food storage",380
+12525,45,0,"Stackable jars",381
+12529,45,0,"Round canister",382
+12533,45,0,"Square canister",383
+12537,45,0,"Canister",384
+12541,45,0,"Window canister",385
+12545,45,0,"Window lid canister",386
+12549,45,0,"Round canister",387
+12553,45,0,"Clear top Canister",388
+12557,45,0,"Coffee capsules",389
+12562,45,0,"Coffee pods",390
+12567,45,0,"Biscuit barrel",391
+12576,45,0,"Bread bin",392
+12581,45,0,"Roll top bread bin",393
+12585,45,0,"Fall front bread bin",394
+12589,45,0,"Storage Touch Bin",395
+12593,45,0,"Lift-top bread bin",396
+12597,45,0,"Parts bathroom & toilet",397
+12601,45,0,"Toilet brush and holder",398
+12605,45,0,"Profile",399
+12609,45,0,"Classic",400
+12613,45,0,"Bathroom scale",401
+12618,45,0,"Digital bathroom scale",402
+12632,45,0,"Bathroom scale",404
+12636,45,0,"Toilet roll holder",405
+12665,45,0,"Toilet roll dispenser",407
+12670,45,0,"Profile",408
+12674,45,0,"Classic",409
+12678,45,0,"Soap dispenser",410
+12682,45,0,"Soap holder",411
+12686,45,0,"Towel hook",412
+12690,45,0,"Towel arms",413
+12694,45,0,"Towel bar",414
+12698,45,0,"Bathroom shelf",415
+12702,45,0,"Cup holder",416
+12710,45,0,"Parts postboxes",418
+12714,45,0,"B100",419
+12718,45,0,"B110",420
+12722,45,0,"B150",421
+12726,45,0,"B170",422
+12730,45,0,"B210",423
+12734,45,0,"B230",424
+12738,45,0,"B410",425
+12750,45,0,"B560",428
+12754,45,0,"B620",429
+12758,45,0,"B700",430
+12767,45,0,"Postbox pole",432
+13435,45,0,"Touch Bin, 45 litre",433
+13449,45,0,"Touch Bin with flat lid, 30 litre",434
+13461,45,0,"Touch Bin with flat lid, 50 litre",435
+13871,45,0,"Trade portal",436
+14789,45,0,"Pedal Bin newIcon",437
+24514,45,0,"Essential",439
+24527,45,0,"Topspinner",440
+24540,45,0,"Lift-O-Matic",441
+24553,45,0,"Lift-O-Matic Advance",442
+24566,45,0,"Wallfix",443
+25159,45,0,"Ironing Board A, 110x30 cm",444
+25251,45,0,"Ironing Board B, 124x38 cm ",445
+25273,45,0,"Ironing Board C, 124x45 cm ",446
+25298,45,0,"Ironing Board D, 135x45 cm ",447
+25314,45,0,"Table ironing board",448
+25723,45,0,"Ironing Board Cover A",449
+25738,45,0,"Ironing Board Cover B",450
+25753,45,0,"Ironing Board Cover C",451
+25768,45,0,"Ironing Board Cover D",452
+25783,45,0,"Ironing Board Cover One Size",453
+25797,45,0,"Ironing Board Cover S",454
+25834,45,0,"Sleeve Board Cover",456
+27403,45,0,"Bo Touch Bin Hi ",457
+27414,45,0,"Bo Hi, 60 liter",458
+27425,45,0,"Bo Hi, 2x30 liter",459
+27451,45,0,"Clothes rack",460
+33819,45,0,"Scissors",461
+43483,45,0,"Drying rack",462
+43654,45,0,"Lift top bread bin",463
+44305,45,0,"Bo Pedal Bin, 60 litre",464
+44331,45,0,"Bo Pedal Bin, 2 x 30 litre",465
+44613,45,0,"Black Friday",467
+44674,45,0,"Collections",469
+44969,45,0,"Sink side specials",470
+45965,45,0,"With legs",471
+45992,45,0,"Waste separation ",472
+47416,45,0,"Bathroom ReNew",473
+47517,45,0,"Washing bowl",474
+47551,45,0,"Dish squeegee",475
+47584,45,0,"Soap dispenser",476
+47781,45,0,"Sink accessories",480
+47818,45,0,"Towel hook",482
+47859,45,0,"Toilet accessory set",483
+47875,45,0,"Toilet waste bin",484
+48176,45,0,"Trend colours",486
+48203,45,0,"Profile kitchen utensils",487
+48323,45,0,"Sort & Go, 25 litre",488
+48724,45,0,"ReNew",489
+48765,45,0,"ReNew",490
+48809,45,0,"Pedal Bin, Recycle 2 x 2 litre",491
+48827,45,0,"Toilet",492
+48843,45,0,"Grooming",493
+48864,45,0,"Showering",494
+49989,45,0,"Sink side",495
+50021,45,0,"Pedal Bin newIcon, 2 x 2 litre",496
+50505,45,0,"Let's bake love",497
+50622,45,0,"Drying Racks",498
+50637,45,0,"In-Sink Organizer",499
+50658,45,0,"Dish Brush",500
+50673,45,0,"Soap dispenser with brush",501
+50982,45,0,"Touch Bin Recycle, 2 x 20 litre",502
+51053,45,0,"Regrow kit",503
+51156,45,0,"Kitchen & cooking",504
+52211,45,0,"Bo Laundry Bin, 60 litre",505
+52227,45,0,"Bo Laundry Bin Hi, 2x 45 litre",506
+52305,45,0,"Bo Laundry Bins",507
+52432,45,0,"Bo Pedal Bin, 60 litre",508
+52508,45,0,"Bo Pedal Bin, 2 x 30 litre",509
+53104,45,0,"Sustainable living",510
+53229,45,0,"Bo Touch Bin, 60 litre",511
+53431,45,0,"Dutchdeluxes",512
+53561,45,0,"New products",514
+53587,45,0,"Aprons",515
+53613,45,0,"Wood",516
+53634,45,0,"Ceramics",517
+53649,45,0,"Cooking",518
+53664,45,0,"Serving",519
+53679,45,0,"Dining",520
+53694,45,0,"Gift ideas",521
+53709,45,0,"Zipper style aprons",522
+53724,45,0,"BBQ style aprons",523
+53739,45,0,"Suspender aprons",524
+53754,45,0,"Reversible aprons",525
+53769,45,0,"All aprons",526
+53784,45,0,"Flash collection",527
+53799,45,0,"Breakfast boards",528
+53814,45,0,"Bread boards",529
+53829,45,0,"BBQ boards",530
+53844,45,0,"Wooden boards",531
+53859,45,0,"Board plates",532
+53874,45,0,"Carafes",533
+53889,45,0,"Utensil holders",534
+53904,45,0,"Food stands",535
+53919,45,0,"Spoon rests/appetizer plates",536
+53934,45,0,"Oven dishes",537
+53949,45,0,"All ceramics",538
+55784,45,0,"Hugo’s Favorieten ",539
+56110,45,0,"Bo Laundry Bin, 60 litre",540
+56136,45,0,"Bo Laundry Bin Hi, 2x45 litre",541
+56348,45,0,"Digital bathroom scale 2",544
+57114,45,0,"Sort & Go, 40 litre",545
+57131,45,0,"HangOn drying rack",546
+57146,45,0,"Sink mat",547
+57341,45,0,"Business collection",548
+57361,45,0,"Restaurants",550
+57383,45,0,"Hotels",551
+57424,45,0,"Touch Bin",553
+57441,45,0,"Pedal bin",554
+57470,45,0,"Wall mounted bin",555
+57485,45,0,"Paper bin",556
+57501,45,0,"Fire retardant bin",557
+57522,45,0,"Ironing board",558
+57550,45,0,"Clothes rack",559
+57565,45,0,"Laundry accessories",560
+57580,45,0,"Toilet brush",561
+57595,45,0,"Toilet roll holder",562
+57610,45,0,"Bathroom scales",563
+57639,45,0,"Touch Bin ",564
+57645,45,0,"Pedal bin",565
+57651,45,0,"Push Bin",566
+57657,45,0,"Open top bin",567
+57663,45,0,"Toilet brush",568
+57669,45,0,"Toilet roll holder",569
+57675,45,0,"Clothes rack",570
+57683,45,0,"Hospitals",571
+57690,45,0,"Pedal bin",572
+57696,45,0,"Touch bin",573
+57702,45,0,"Open top bin",574
+57708,45,0,"Bathroom scales",575
+57714,45,0,"Airports",576
+57721,45,0,"Pedal bin",577
+57727,45,0,"Touch bin",578
+57733,45,0,"Open top bin",579
+57739,45,0,"Push bin",580
+57745,45,0,"Shopping malls",581
+57752,45,0,"Pedal bin",582
+57758,45,0,"Touch bin",583
+57764,45,0,"Open top bin",584
+57770,45,0,"Push bin ",585
+57776,45,0,"Offices",586
+57783,45,0,"Pedal bin",587
+57789,45,0,"Touch bin",588
+57795,45,0,"Open top bin",589
+57801,45,0,"Toilet brush",590
+57807,45,0,"Clothes hanger",591
+57813,45,0,"Cinemas, theatres & casinos",592
+57820,45,0,"Pedal bin",593
+57826,45,0,"Touch bin",594
+57832,45,0,"Open top bin",595
+57838,45,0,"Push bin",596
+57844,45,0,"Clothes hanger",597
+60153,45,0,"MindSet collection",601
+60167,45,0,"Rotary dryer colour",602
+60181,45,0,"Rotary dryer deals",603
+60505,45,0,"Autumn Deals",604
+60720,45,0,"Ironing Board promo",605
+60864,45,0,"Foldable Drying Racks",608
+61778,45,0,"5-Pocket apron",610
+61809,45,0,"Leather",611
+61914,45,0,"Pots and Pans",612
+62013,45,0,"Bathroom and Toilet bin",613
+62053,45,0,"Compost bins and bins for Food Waste",614
+62126,45,0,"Pedal Bin old",615
+62168,45,0,"NewIcon Pedal Bin",616
+62494,45,0,"Bathroom & toilet",617
+62704,45,0,"Summer/spring collection 2023",618
+62791,45,0,"Winter/autumn collection 2022",619
+62806,45,0,"Waste bins & paper bins",620
+62821,45,0,"Laundry & ironing",621
+62836,45,0,"Kitchen & cooking",622
+62857,45,0,"Bathroom & toilet",623
+63234,45,0,"Outlet - Dutchdeluxes",624
+63518,45,0,"Pedal Bin StepUp",625
+63658,45,0,"Soft beige",626
+63754,45,0,"Laundry accessories",627
+63926,45,0,"MindSet Bathroom",628
+63941,45,0,"MindSet Toilet",629
+64745,45,0,"Vanity Mirrors",630
+64813,45,0,"Waste bin with lid",631
+64876,45,0,"Waste separation",632
+65390,45,0,"MindSet",633
+65405,45,0,"MindSet",634
+65428,45,0,"Shower caddy",635
+65680,45,0,"Toothbrush holder",636
+65765,45,0,"Cups and Mugs",637
+65804,45,0,"Potholders and oven gloves",638
+66076,45,0,"Sort & Go, 20 litre",639
+66091,45,0,"Brushed Style Apron",640
+66216,45,0,"Frying pan",641
+66229,45,0,"Pancake pan",642
+66242,45,0,"Wok pan",643
+66282,45,0,"Kitchen Utensils",644
+66300,45,0,"Bread Basket",645
+66318,45,0,"Placemats and coasters",646
+66348,45,0,"Amuse plates",647
+66362,45,0,"Dinner plates",648
+66376,45,0,"Bottom plates/serving plates",649
+68052,45,0,"Bin liners",650
+68179,45,0,"On the go",651
+68215,45,0,"Lunch boxes",652
+68231,45,0,"Lunch and breakfast sets",653
+68247,45,0,"Salad bowls & lunch bowls",654
+68263,45,0,"Water bottles",655
+68279,45,0,"Yoghurt cups & soup cups",656
+68628,45,0,"On the go bread bins",658
+68723,45,0,"Make & Take salad bowl",659
+68749,45,0,"Make & Take water bottle",660
+68811,45,0,"Make & Take Yoghurt cup & soup cup",661
+69402,45,0,"Shower Squeegee",662
+72449,45,0,"Toothbrush holders",663
+72500,45,0,"Sauté Pan",664
+72528,45,0,"Sauce pan",665
+72556,45,0,"Casserole",666
+72584,45,0,"Grill pan",667
+72952,45,0,"Father's Day assortment",668
+73384,45,0,"Wine coolers",669
+73392,45,0,"Napkin rings",670
+73400,45,0,"Bowls",671
+73434,45,0,"Food stand",673
+73898,45,0,"Make & Take",674
+73954,45,0,"Make & Take bento box",675
+73971,45,0,"Manual bin",676
+74095,45,0,"Returnless ",681
+74102,45,0,"All Spare parts (returnless)",682
+74109,45,0,"DPD drop-off (returnless)",683
+74116,45,0,"Innerbucket Bo (returnless)",684

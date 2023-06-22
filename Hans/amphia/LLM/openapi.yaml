@@ -1,0 +1,35 @@
+swagger: "2.0"
+info:
+  title: llmapi
+  version: "1.0.0"
+host: "llm-resp-zareiqouxa-lz.a.run.app"
+schemes:
+  - "https"
+paths:
+  /chat:
+    post:
+      summary: "Chat with the bot"
+      consumes:
+        - "application/json"
+      produces:
+        - "application/json"
+      parameters:
+        - name: "user_input"
+          in: "body"
+          description: "The user's input"
+          required: true
+          schema:
+            type: "object"
+            properties:
+              message:
+                type: "string"
+      x-google-backend:
+        address: https://europe-north1-llm-search-amphia.cloudfunctions.net/chat
+      responses:
+        200:
+          description: "A successful response"
+          schema:
+            type: "object"
+            properties:
+              response:
+                type: "string"

@@ -1,0 +1,20 @@
+train: ../data/training/images
+val: ../data/validation/images
+
+train_labels: ../data/training/labels
+val_labels: ../data/validation/labels
+
+nc: 20
+names: [
+'Cabin Cruiser', 'Canoe/Kayak',
+'Commercial', 'Dinghies/Cats',
+'Half Cab', 'Hire & Drive',
+'House Boat', 'Human', 'Kite',
+'Open', 'Other', 'PFD (lifejacket) ', 'PWC',
+'Registration Number',
+'Rowing', 'SUP', 'Ski Boat',
+'Structure', 'Windsurfer',
+'Yacht']
+
+batch_size: 8
+epochs: 8
